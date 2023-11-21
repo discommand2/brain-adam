@@ -1,0 +1,25 @@
+{
+  "name": "discommand2/brain-adam",
+  "description": "The Adam brain template, configured for Discommand specific architecture, brain, and plugin development.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Russell Purinton",
+      "email": "russell.purinton@gmail.com"
+    }
+  ],
+  "support": {
+    "discord": "https://discord.gg/yMs5vgvyV4"
+  },
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "Discommand2\\Brain\\Adam\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "version": "2.0.0"
+}
