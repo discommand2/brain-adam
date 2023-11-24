@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "29e9f03eea1d6d8dbbc2031318428e93",
+    "content-hash": "7f4341a4eb13471daa53fd99843e3851",
     "packages": [
         {
             "name": "discommand2/core",
